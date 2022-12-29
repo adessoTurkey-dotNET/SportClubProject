@@ -1,0 +1,12 @@
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\bin\Debug\net6.0\VolleyballClubProject.Core.deps.json
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\bin\Debug\net6.0\VolleyballClubProject.Core.dll
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\bin\Debug\net6.0\VolleyballClubProject.Core.pdb
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\obj\Debug\net6.0\VolleyballClubProject.Core.csproj.AssemblyReference.cache
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\obj\Debug\net6.0\VolleyballClubProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\obj\Debug\net6.0\VolleyballClubProject.Core.AssemblyInfoInputs.cache
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\obj\Debug\net6.0\VolleyballClubProject.Core.AssemblyInfo.cs
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\obj\Debug\net6.0\VolleyballClubProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\obj\Debug\net6.0\VolleyballClubProject.Core.dll
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\obj\Debug\net6.0\refint\VolleyballClubProject.Core.dll
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\obj\Debug\net6.0\VolleyballClubProject.Core.pdb
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClubProject.Core\obj\Debug\net6.0\ref\VolleyballClubProject.Core.dll

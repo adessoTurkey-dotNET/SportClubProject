@@ -1,0 +1,15 @@
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\bin\Debug\net6.0\VolleyballClub.Application.deps.json
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\bin\Debug\net6.0\VolleyballClub.Application.dll
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\bin\Debug\net6.0\VolleyballClub.Application.pdb
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\bin\Debug\net6.0\VolleyballClubProject.Core.dll
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\bin\Debug\net6.0\VolleyballClubProject.Core.pdb
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\VolleyballClub.Application.csproj.AssemblyReference.cache
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\VolleyballClub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\VolleyballClub.Application.AssemblyInfoInputs.cache
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\VolleyballClub.Application.AssemblyInfo.cs
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\VolleyballClub.Application.csproj.CoreCompileInputs.cache
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\VolleyballClub.Application.csproj.CopyComplete
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\VolleyballClub.Application.dll
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\refint\VolleyballClub.Application.dll
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\VolleyballClub.Application.pdb
+C:\Users\muallimoglu\source\repos\VS2022\VolleyballClubProject\VolleyballClub.Application\obj\Debug\net6.0\ref\VolleyballClub.Application.dll

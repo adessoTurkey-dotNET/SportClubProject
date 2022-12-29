@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vg8sr56PJx/qyTy82xDH58yeZXMtuElGVzr1gbYpC4qcyD7/K6bXv78+kvrhnZfCI8PfFYWkxyXAZ53LVB5h0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muallimoglu\\source\\repos\\VS2022\\VolleyballClubProject\\VolleyballClubProject\\VolleyballClubProject.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muallimoglu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

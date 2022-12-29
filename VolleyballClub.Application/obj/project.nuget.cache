@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "n81kKbQXkKNwbdzXePMifaSoqoVzdOIhVVBvOkHSCAXm2HcrB+UBPw7SjIYLy3bADnc5/yhNXwV87oXtWrLwnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muallimoglu\\source\\repos\\VS2022\\VolleyballClubProject\\VolleyballClub.Application\\VolleyballClub.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muallimoglu\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\muallimoglu\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\muallimoglu\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\muallimoglu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\muallimoglu\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\muallimoglu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\muallimoglu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\muallimoglu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
