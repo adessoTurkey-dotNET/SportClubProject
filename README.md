@@ -1,7 +1,7 @@
 # SportClubProject
 Basic Sport Club Management Project
 
-Onion Architecture
+Onion Architecture </br>
 CQRS
 MediatR
 Autofac
