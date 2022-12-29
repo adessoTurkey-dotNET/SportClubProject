@@ -2,9 +2,9 @@
 Basic Sport Club Management Project
 
 Onion Architecture </br>
-CQRS
-MediatR
-Autofac
-FluentValidation Library
-Fluent API in Entity Framework Core
-JWT Authentication
+CQRS</br>
+MediatR</br>
+Autofac</br>
+FluentValidation Library</br>
+Fluent API in Entity Framework Core</br>
+JWT Authentication</br>
